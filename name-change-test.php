@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<!--	Author: 
-		Date:	
+<!--	Author: BoramLamppa
+		Date:	2/20/19
 		File:	name-change-test.php
 		Purpose:MySQL Exercise
 -->
@@ -13,7 +13,7 @@
 
 <body>
 <?php
-
+include ("name-change.php");
 $server = "localhost";
 $user = "wbip";
 $pw = "wbip123";
